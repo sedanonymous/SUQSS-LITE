@@ -49,3 +49,5 @@ This repository provides a **stripped-down version** of SUQSS. The **full versio
 🐦 Twitter: `[@SUQSS_SED](https://twitter.com/SUQSS_SED)`  
 🔗 Website: [`suqss.carrd.co`](https://suqss.carrd.co)  
 
+## Looking for the 7-Day Trial?
+👉 [Read the Trial Guide Here](README_SUQSS_Lite_Trial.md)
